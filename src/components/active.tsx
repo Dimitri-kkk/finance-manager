@@ -1,6 +1,6 @@
 import React from 'react'
 
-const active = () => {
+const Active = () => {
   return (
     <div className="flex flex-1 mt-2">
         <p>keep going, you are almost there. just a bit more</p>
@@ -8,4 +8,4 @@ const active = () => {
   )
 }
 
-export default active
+export default Active;
