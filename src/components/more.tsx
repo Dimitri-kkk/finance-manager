@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const more = () => {
   return (
-    <div>more</div>
-  )
-}
+    <div>
+      <p>gogogogg</p>
+      <h1>ffjffjjfS</h1>
+    </div>
+  );
+};
 
-export default more
+export default more;

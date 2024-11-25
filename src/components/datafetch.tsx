@@ -2,7 +2,7 @@ import React from 'react'
 
 const datafetch = () => {
   return (
-    <div>datafetch</div>
+    <div className="flex">datafetch</div>
   )
 }
 
