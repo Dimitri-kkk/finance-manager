@@ -2,7 +2,7 @@ import React from 'react'
 
 const more = () => {
   return (
-    <div>more</div>
+    <div className="container">more content</div>
   )
 }
 
