@@ -2,7 +2,7 @@ import React from 'react'
 
 const query = () => {
   return (
-    <div>queraaaarararaay</div>
+    <div>queraaaarararaaasy</div>
   )
 }
 
