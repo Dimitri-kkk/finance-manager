@@ -2,7 +2,7 @@ import React from 'react'
 
 const axali = () => {
   return (
-    <div>axali streakii forever</div>
+    <div>axali streakiii forever</div>
   )
 }
 
