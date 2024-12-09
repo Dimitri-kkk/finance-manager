@@ -4,7 +4,7 @@ export default function Home() {
     <div>
       <h1>Home</h1>
       <div className="flex flex-col flex-1">
-        <h3>gugugagaaa</h3>
+        <h3>gugugagaaagaga</h3>
       </div>
     </div>
 
