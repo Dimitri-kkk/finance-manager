@@ -2,7 +2,7 @@ import React from 'react'
 
 const amindi = () => {
   return (
-    <div>amindi</div>
+    <div>amindis prognoz</div>
   )
 }
 
