@@ -3,7 +3,7 @@ import React from 'react'
 const more = () => {
   return (
     <div className="container-area">more contenti
-    <p>aba ise rogora</p>
+    <p>aba ise rogoraaa</p>
     </div>
   )
 }
