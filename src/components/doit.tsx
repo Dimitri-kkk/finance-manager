@@ -5,7 +5,7 @@ const doit = () => {
     <div>
       doit for your self and your loved ones.
       do it otherwise nothing matters.
-      <p> be strong </p>
+      <p> be strong pls</p>
     </div>
   );
 };
