@@ -2,7 +2,7 @@ import React from 'react'
 
 const jinx = () => {
   return (
-    <div className="love comeback">jinxxx ilyyy</div>
+    <div className="love comeback">jinxxx ilyyyyyyy</div>
   )
 }
 
